@@ -57,3 +57,6 @@ The first row is done as an example for you.
 | MCQ Revision Programme | This programme is designed to help students recap what they have previously learnt in class to refresh their memory. This could also be used to help them prepare for their examinations.| Please help to add in more interesting and useful questions that could help students revise more topics.| https://github.com/notzyyy/zhiyus_MCQ-Revision-Programme/blob/main/app.py|Chow Zhi Yu 2A|
 | CCA Type test | Identify type of CCA suitable | improve it and increase accuracy | https://github.com/2018Jojo/CCA-Type-test/tree/main| Joel | 2C |
 
+https://github.com/2019DHSJess/PEA/blob/main/pea/pea.py
+| post exam activities review | express feelings about post exam activites | show how much students like the activities | https://github.com/2018Jojo/CCA-Type-test/tree/main| Jess | 2H |
+
